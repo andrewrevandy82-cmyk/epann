@@ -1,3 +1,4 @@
+
 <style>
   body {
     background-color: #f5deb3; /* Warna beige seperti kopi susu */
@@ -51,7 +52,6 @@
 <a href="Revervasi.html"> <img src="kalender.jpg" width="60" height="auto" style="border-radius: 10px;" alt="Revervasi"></a> 
 </ul>
 <hr>
-
 <h1 align = center> KEUNGGULAN KOPI SENJA </h1>
 <ul>
   <li>Suasana Yang Nyaman</li>
@@ -60,7 +60,6 @@
   <li>Tersedia Wi-Fit</li>
 </ul>
 <hr>
-
 <h1> JAM BUKA</h1>
 <table cellspacing = 2 cellpadding = 2 border="1">
   <tr>
@@ -80,4 +79,202 @@
 </html>
 </body>
 </head>
-
+<style>
+  body {
+    background-color: #f5deb3; /* Warna beige seperti kopi susu */
+    font-family: Arial, sans-serif;
+    color: #5a3a22; /* Warna coklat tua untuk teks */
+  }
+  .container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff8e1; /* Warna krem lebih terang untuk konten */
+    border-radius: 8px;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: #8b4513; /* Warna coklat tua untuk nav */
+    overflow: hidden;
+  }
+  nav ul li {
+    float: left;
+  }
+  nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  nav ul li a:hover {
+    background-color: #a0522d;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #d2b48c;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #d2b48c; /* Warna tan untuk header tabel */
+  }
+  </style>
+  <body>
+<ul>
+<h1 align = center> SELAMAT DATANG DI KOPI SENJA ANDREW</h1>
+<a href="Index.html"> <img src="rumah.jpg" width="60" height="auto" style="border-radius: 10px;" alt="Beranda"></a> |
+<a href="Menu.html"> <img src="kopi.jpg" width="60" height="auto" style="border-radius: 10px;" alt="Menu"></a> |
+<a href="Revervasi.html"> <img src="kalender.jpg" width="60" height="auto" style="border-radius: 10px;" alt="Revervasi"></a> 
+</ul>
+<hr>
+<table border="1">
+  <tr>
+    <th>Menu Yang Tersedia</th>
+	<th>Deskripsi Singkat</th>
+	<th>Harga</th>
+  </tr>
+  <tr>
+    <td>Exspresso</td>
+	<td>Kopi Hitam Pekat Dengan Cita Rasa Kuat Khas Italiano</td>
+	<td>Rp 20.000</td>
+  </tr>
+  <tr>
+    <td>Cappuccino</td>
+	<td>Perpaduan Exspresso, Susu Hangat, Dan Buih Susu Lembut</td>
+	<td>Rp 23.000</td>
+  </tr>
+  <tr>
+    <td>Latte</td>
+	<td>Espresso Yang Dicampur Dengan Susu Kukus</td>
+	<td>Rp 30.000</td>
+  </tr>
+  <tr>
+    <td>Mocha</td>
+	<td>Perpaduan espreso, susu, dan cokelat</td>
+	<td>Rp 35.000</td>
+  </tr>
+  <tr>
+    <td>Nasi Goreng</td>
+	<td>Nasi Goreng Special Dengan Bumbu Rempah Khas Dengan Toping Yang Lengkap Dan Tambahan Sayuran</td>
+	<td>Rp 35.000</td>
+  </tr>
+  
+</table>
+<table border ="1">
+<tr>
+    <th align = center>Menu Unggulan</th>
+</tr>
+<tr>
+    <td>
+	    <ul>
+		    <li>Kopi Susu Gula Aren</li>
+			<li>Americano</li>
+			<li>Cocolate</li>
+		</ul>
+</tr>
+<hr>
+<style>
+  body {
+    background-color: #f5deb3; /* Warna beige seperti kopi susu */
+    font-family: Arial, sans-serif;
+    color: #5a3a22; /* Warna coklat tua untuk teks */
+  }
+  .container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff8e1; /* Warna krem lebih terang untuk konten */
+    border-radius: 8px;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: #8b4513; /* Warna coklat tua untuk nav */
+    overflow: hidden;
+  }
+  nav ul li {
+    float: left;
+  }
+  nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  nav ul li a:hover {
+    background-color: #a0522d;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #d2b48c; /* Warna tan untuk header tabel */
+  }
+</style>
+<body>
+<ul>
+<h1 align = center> SELAMAT DATANG DI KOPI SENJA ANDREW</h1>
+<a href="Index.html"> <img src="rumah.jpg" width="60" height="auto" style="border-radius: 10px;" alt="Beranda"></a> |
+<a href="Menu.html"> <img src="kopi.jpg" width="60" height="auto" style="border-radius: 10px;" alt="Menu"></a> |
+<a href="Revervasi.html"> <img src="kalender.jpg" width="60" height="auto" style="border-radius: 10px;" alt="Revervasi"></a> 
+</ul>
+<hr>
+<table>
+<tr>
+   <td colspan = "3" style="text-align:center;"> Revervasi</td>
+</tr>
+<form>
+<tr>
+    <td>Nama Pelanggan</td>
+	<td>:</td>
+	<td> <input type="text" name=nama> </td>
+</tr>
+<tr>
+    <td>Nomor Telepon</td>
+	<td>:</td>
+	<td> <input type ="tel" name=Nomor> </td>
+</tr>
+<tr>
+    <td>Tanggal Revervasi</td>
+	<td>:</td>
+	<td> <input type ="date" name=tanggal> </td>
+</tr>
+<tr>
+    <td>Jumlah Orang</td>
+	<td>:</td>
+	<td> <input type ="number" name=Jumlah> </td>
+</tr>
+<tr>
+    <td> <font color = brown> Pilih Area</td>
+	<td> <font color = brown> : </td>
+	<td> <input type="radio" name="Area" value="Pilih">Indoor (No_Smoking) </td>
+</tr>
+<tr>
+    <td> </td>
+	<td> </td>
+	<td> <input type="radio" name="Area" value="Pilih">Outdoor (Smoking) </td>
+</tr>
+<tr>
+    <td colspan="3" style="text-align:center;">
+	    <textarea rows"3" cols="50">Silahkan Pilih Sesuai Kebutuhan Anda </textarea>
+	</td>
+</tr>
+<tr>
+    <td colspan="3" style="text-align:center;">
+        <input type="submit" value="Kirim Revervasi">
+	</td>
+</tr>
+</html>
+</head>
+</body>
